@@ -4,8 +4,3 @@ Aquí encontrarás las ultimas novedades del programa, actualizaciones y podrás
 
 ### Última versión estable
 [Descargar v4](https://github.com/adnsware/administradordenegocios/raw/gh-pages/adn_setup.exe)
-
-### Soporte técnico
-
-¿Tienes dudas sobre el funcionamiento de Administrador de Negocios?
-Envia un correo a la siguiente dirección:
