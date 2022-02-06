@@ -1,4 +1,4 @@
-## Bienvenido a la página de Administrador de Negocios
+## Bienvenido
 
 Aquí encontrarás las ultimas novedades del programa, actualizaciones y podrás descargar la última versión.
 
